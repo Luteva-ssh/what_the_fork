@@ -1,6 +1,6 @@
 # What The Fork 🍴
 
-*Sometimes it's hard to keep up to date with changes made in forks* this tool may help.
+*Sometimes it's hard to keep up to date with changes made in forks*, this tool may help.
 
 A terminal tool that analyzes forks of a GitHub repository to extract and categorize changes like bugfixes, new features, and improvements. Discover what the community has been working on in repository forks!
 (Note: This project is vibe-coded!)
